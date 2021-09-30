@@ -1,4 +1,4 @@
-### Hi there 👋
+### Дратути 👋
 
 <!--
 **Tehnik-creator/Tehnik-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
