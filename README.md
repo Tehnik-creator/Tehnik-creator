@@ -10,3 +10,9 @@
 
 
 ![JS](https://img.shields.io/badge/JavaScript-JS-yellow?style=plastic&logo=JavaScript)
+
+
+|html|
+|----|
+|css |
+|pug |
